@@ -1,0 +1,6 @@
+{
+  "dbhost" : "database-1.cwmd1byzrv32.us-east-1.rds.amazonaws.com",
+  "dbname" : "database1",
+  "dbuser" :"admin",
+  "dbpassword" :"12345678"
+}
